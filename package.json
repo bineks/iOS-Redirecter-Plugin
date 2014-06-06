@@ -1,0 +1,34 @@
+{
+  "name": "iOS-Redirecter-Plugin",
+  "description": "Simple to use JavaScript library to redirect iOS users to specific URL.",
+  "version": "1.0",
+  "keywords": [
+    "ios",
+    "javascript",
+    "redirect"
+  ],
+  "contributors": [
+    {
+      "name": "Dmitriy",
+      "email": "Rashepkin",
+      "web": "https://github.com/DmitriyGitHub"
+    }
+  ],
+  "maintainers": [
+    {
+      "name": "Pavel Sheiman",
+      "email": "pavel.sheiman@gmail.com",
+      "web": "https://github.com/psheiman"
+    }
+  ],
+  "bugs": {
+    "web": "https://github.com/psheiman/iOS-Redirecter-Plugin/issues"
+  },
+  "repositories": [
+    {
+      "type": "git",
+      "url": "git@github.com:psheiman/iOS-Redirecter-Plugin.git"
+    }
+  ],
+  "homepage": "https://github.com/psheiman/iOS-Redirecter-Plugin"
+}
