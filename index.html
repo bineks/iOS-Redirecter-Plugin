@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>iOS Redirecter Demo</title>
+
+  <script type="text/javascript" src="iOS-Redirecter-Plugin.js"></script>
+  <script type="text/javascript">
+    var console = console || { error: function(message) { alert(message); } };
+
+    try { iOSRedirecter.initialize({redirectTo: 'http://stackoverflow.com/'}).redirect(); }
+    catch (e) { console.error(e.getMessage()); }
+  </script>
+
+</head>
+<body>
+
+</body>
+</html>
