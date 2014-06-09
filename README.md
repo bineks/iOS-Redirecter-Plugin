@@ -2,7 +2,7 @@ iOS-Redirecter-Plugin
 =====================
 
 Plugin allows site administrators to easily redirect iPhone/iPad users to specific location.
-Simply include plugin on page and call ```js  iOSRedirecter.initialize({redirectTo: url}).redirect(); ```
+Simply include plugin on page and call ``` iOSRedirecter.initialize({redirectTo: url}).redirect(); ```
 
 Usage example:
 ```xhtml
